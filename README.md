@@ -12,6 +12,6 @@ This project uses the FLAN-T5 foundation model to extract key product features (
 - google/flan-t5-base for feature extraction
 
 ## How to Use
-Upload a CSV file with columns: `productId`, `Title`, and `Text`
-Run the notebook
-View extracted product features grouped by sentiment and product
+- Upload a CSV file with columns: `productId`, `Title`, and `Text`
+- Run the notebook
+- View extracted product features grouped by sentiment and product
